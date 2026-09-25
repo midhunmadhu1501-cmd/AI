@@ -7,6 +7,7 @@
 - Outfit for casual, office, workout and travel days
 - Personal comfort setting (feel cold or hot easily)
 - Explainable rule-based AI with a 0–100 comfort score
+- Gen Z / plain-English vibe toggle with a matching icon for each clothing piece
 - 5-day forecast, °C / °F toggle, light and dark mode, responsive layout
 - Security hardening: Content-Security-Policy, input validation, no `innerHTML`
 
